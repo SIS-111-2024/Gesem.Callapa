@@ -1,0 +1,10 @@
+para realizar un sowftware de baja complegidad que pueda generar una boleta de pago establecemos las siguientes entradas
+ENTRADAS: 
+-name, cedula, cargo, antiguedad, tipo de empresa Como variables literales para guardar la informacion al momento de imprimir la boleta
+-mes, haber_basico, dias_trabajados_en_domingo Como Numeros Enteros, que nos serviran para hacer calculos mas adelante 
+PROCESO:
+tenemos que hacer una lectura de cada una de las entradas que se propusieron en la parte anterior
+posteriormente realizamos los calculos correspondientes para tener y conseguir las salidas
+SALIDAS:
+-sueldo_dominical, apf, ingresos, egresos, sueldo_liquido
+
